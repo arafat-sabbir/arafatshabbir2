@@ -7,9 +7,14 @@
 [![An old rock in the desert](https://i.ibb.co/QPJZHyb/icons8-twitterx-128.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/arafatshabbir8)
 
 # 💻 Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,mongodb,express,firebase)](https://skillicons.dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arafat-sabbir/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,mongodb,express,firebase" />
+  </a>
+</p
 
 # 👀 Current overview
 ### 🗒 I'm learning Next js
 ### 🗒 I'm Learning Gsap For Animation
 ### 🗒 I'm Learning Communicative English For Better Communication
+>
