@@ -8,8 +8,8 @@
 
 <div style="text-align:center">
 
-  ![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafatshabbir2&theme=github_dark)
-  
+![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafatshabbir2&theme=github_dark)
+
 </div>
 
 
