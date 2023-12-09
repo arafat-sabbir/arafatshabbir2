@@ -1,9 +1,8 @@
-### Hi there 👋
 
-<!--
-**arafatshabbir2/arafatshabbir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 📈 Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arafatshabbir2&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
