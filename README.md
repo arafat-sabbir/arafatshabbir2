@@ -6,7 +6,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatshabbir2&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
 </p>
 
-<div style="text-align:center">
+<div align="center">
 
 ![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafatshabbir2&theme=github_dark)
 
